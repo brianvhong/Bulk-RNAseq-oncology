@@ -1,0 +1,7 @@
+samplenames,group,file
+C23,control,featureCounts on data 132: Counts_2
+C25,control,featureCounts on data 133: Counts_2
+C28,control,featureCounts on data 134: Counts_2
+K05,treatment1,featureCounts on data 135: Counts_2
+K23,treatment1,featureCounts on data 136: Counts_2
+K25,treatment1,featureCounts on data 137: Counts_2

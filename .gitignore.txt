@@ -1,4 +1,0 @@
-*keto*
-/galaxy/
-/annotation/
-/limma

@@ -1,4 +1,4 @@
-# Description of pilot study research in oncology.
+# Description of pilot in oncology.
 
 Bulk RNAseq analysis for oncology pilot study: Data analysis and visualizations. Treatment conditions are hidden until work is published in a peer-reviewed journal.
 

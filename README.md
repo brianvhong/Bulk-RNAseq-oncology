@@ -1,6 +1,6 @@
-# Description of pilot in oncology.
+# Description of pilot study in oncology.
 
-Bulk RNAseq analysis for oncology pilot study: Data analysis and visualizations. Treatment conditions are hidden until work is published in a peer-reviewed journal.
+Bulk RNAseq analysis for oncology pilot study: Data analysis and visualizations. Treatment conditions are hidden until work becomes published in a peer-reviewed journal.
 
 # Brief Method Design: 
 
